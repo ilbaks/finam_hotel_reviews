@@ -166,3 +166,5 @@ cython_debug/
 /data/raw/Test_data_marked.xlsx
 /reports/html/03_clustering_analyses.html
 /reports/ipynb/03_clustering_analyses.ipynb
+/.env.development
+/configs/.env.development
