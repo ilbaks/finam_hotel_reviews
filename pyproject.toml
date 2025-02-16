@@ -5,7 +5,7 @@ description = "Default template for PDM package"
 authors = [
     {name = "Ilya Baksalyar", email = "baksalyar@gmail.com"},
 ]
-dependencies = ["ipykernel>=6.29.5", "matplotlib>=3.10.0", "gensim>=4.3.3", "pandas>=2.2.3", "pyldavis>=3.4.1", "wordcloud>=1.9.4", "pyarrow>=19.0.0", "tqdm>=4.67.1"]
+dependencies = ["ipykernel>=6.29.5", "matplotlib>=3.10.0", "gensim>=4.3.3", "pandas>=2.2.3", "pyldavis>=3.4.1", "wordcloud>=1.9.4", "pyarrow>=19.0.0", "tqdm>=4.67.1", "setfit[absa]>=1.1.1", "spacy>=3.7.5", "dvclive>=3.48.2"]
 requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}

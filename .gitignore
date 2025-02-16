@@ -168,3 +168,4 @@ cython_debug/
 /reports/ipynb/03_clustering_analyses.ipynb
 /.env.development
 /configs/.env.development
+/results
